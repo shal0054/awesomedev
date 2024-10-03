@@ -1,1 +1,3 @@
-function thatThing() {}
+function thatThing() {
+	console.log('local changes');
+}
